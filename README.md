@@ -59,15 +59,15 @@ I’m an **IT Engineer with 5+ years of experience** in building and automating 
 
 ---
 
-![Grigore's GitHub Stats](https://github-readme-stats-beryl-gamma-68.vercel.app/api?username=gricas&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats-beryl-gamma-68.vercel.app/api/top-langs/?username=gricas&layout=compact&theme=tokyonight)  
+![Grigore's GitHub Stats](https://github-readme-stats-git-master-grigore-casims-projects.vercel.app/api?username=gricas&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats-git-master-grigore-casims-projects.vercel.app/api/top-langs/?username=gricas&layout=compact&theme=tokyonight)  
 
 ---
 
 ✨ _“Engineering resilience into infrastructure – because uptime is non-negotiable.”_  
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-6g16orchn-grigore-casims-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/z88iz9gloxj4h59id2oxxt8uz)
+  [![Spotify](https://novatorem-grigore-casims-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/z88iz9gloxj4h59id2oxxt8uz)
 </div>
 
 
