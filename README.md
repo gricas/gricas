@@ -7,7 +7,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://gricas.github.io/)  
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?logo=google-chrome)](https://www.gricascloud.com/)  
 [![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-ff9900?logo=amazon-aws)](https://www.credly.com/badges/5f9ebbaa-fdb5-457c-8d30-590a4cb74440/public_url)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Certified-326ce5?logo=kubernetes)](#)  
 
 ---
 
@@ -35,6 +34,7 @@ I’m an **IT Engineer with 5+ years of experience** in building and automating 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?logo=rancher&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
