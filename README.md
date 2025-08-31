@@ -18,6 +18,8 @@
 </details>
 </div>
 
+---
+
 ## 💡 About Me
 
 I’m an **IT Engineer with 5+ years of experience** in building and automating **enterprise-scale cloud infrastructure** for **Fortune 500 financial services** and **high-growth startups**.  
@@ -98,3 +100,5 @@ I’m an **IT Engineer with 5+ years of experience** in building and automating 
 <a href="mailto:grigorecasim@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=gricas&style=flat&color=orange&label=PROFILE+VIEWS)
