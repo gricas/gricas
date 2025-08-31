@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-🚀 **Senior Site Reliability Engineer | Cloud & DevOps Consultant**  
+🚀 **Site Reliability Engineer | Cloud & DevOps Consultant**  
 📍 Chicago, IL | ✉️ [Email](mailto:grigorecasim@gmail.com) | 🌐 [Website](https://gricascloud.com/)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/grigore-casim-9205631bb/)  
