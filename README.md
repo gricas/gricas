@@ -59,8 +59,8 @@ I’m an **IT Engineer with 5+ years of experience** in building and automating 
 
 ---
 
-![Grigore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gricas&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gricas&layout=compact&theme=tokyonight)  
+![Grigore's GitHub Stats](https://github-readme-stats-beryl-gamma-68.vercel.app/api?username=gricas&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats-beryl-gamma-68.vercel.app/api/top-langs/?username=gricas&layout=compact&theme=tokyonight)  
 
 ---
 
